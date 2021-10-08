@@ -8,10 +8,10 @@ namespace Milton2913\D;
 class D
 {
 	
-	function __construct(argument)
-	{
-		# code...
-	}
+	// function __construct(argument)
+	// {
+	// 	# code...
+	// }
 
 
 	static $_bucket;
